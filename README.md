@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gokulkumar 
-- 👀 I’m interested in Computational fluid dynamics
-- 🌱 I’m currently learning Python, cantera, Ansys fluent, Matlab
+- 👀
+- 🌱 I’m currently learning Python, Matlab
 - 💞️ I’m looking to collaborate on ...
 - 📫 to reach me gokulkumar@gmail.com
 
