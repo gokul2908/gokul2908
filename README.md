@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Personal Portfolio](https://kind-archimedes-5f2204.netlify.app/gokul2908)
 
-- 🌱 I’m currently learning **C, C++ Languages**
+- 🌱 I’m currently learning rust Language
 
 - 👨‍💻 All of my projects are available at [https://github.com/gokul2908](https://github.com/gokul2908)
 
