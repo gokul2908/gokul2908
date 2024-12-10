@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gokulkumar</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://kind-archimedes-5f2204.netlify.app/gokul2908)
+- 🔭 I’m currently working on [Personal Portfolio](https://gokul-kumar.netlify.app/gokul2908)
 
-- 🌱 I’m currently learning rust Language
+- 🌱 I’m currently learning Backend Development [Progress](https://roadmap.sh/backend?s=6758760decc889bb0dc6ccef)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gokul2908](https://github.com/gokul2908)
 
