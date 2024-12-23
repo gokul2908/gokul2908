@@ -13,9 +13,9 @@
   - [API Design Progress](https://roadmap.sh/api-design?s=6758760decc889bb0dc6ccef)
 
   -  Database:
-    - [SQL Progress](https://roadmap.sh/sql?s=6758760decc889bb0dc6ccef)
-    - [MongoDB Progress](https://roadmap.sh/mongodb?s=6758760decc889bb0dc6ccef)
-    - [GraphQL Progress](https://roadmap.sh/graphql?s=6758760decc889bb0dc6ccef)
+      - [SQL Progress](https://roadmap.sh/sql?s=6758760decc889bb0dc6ccef)
+      - [MongoDB Progress](https://roadmap.sh/mongodb?s=6758760decc889bb0dc6ccef)
+      - [GraphQL Progress](https://roadmap.sh/graphql?s=6758760decc889bb0dc6ccef)
 
   - Programming languages:
     - [Javascript Progress](https://roadmap.sh/javascript?s=6758760decc889bb0dc6ccef)
