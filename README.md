@@ -3,7 +3,24 @@
 
 - 🔭 I’m currently working on [Personal Portfolio](https://gokul-kumar.netlify.app/gokul2908)
 
-- 🌱 I’m currently learning Backend Development [Progress](https://roadmap.sh/backend?s=6758760decc889bb0dc6ccef)
+- 🌱 I’m currently learning below with progress in roadmap links:
+  - [Computer Science Progress](https://roadmap.sh/computer-science?s=6758760decc889bb0dc6ccef)
+  - [Git and GitHub Progress](https://roadmap.sh/git-github?s=6758760decc889bb0dc6ccef)
+  - [Frontend Progress](https://roadmap.sh/frontend?s=6758760decc889bb0dc6ccef)
+  - [Backend Development Progress](https://roadmap.sh/backend?s=6758760decc889bb0dc6ccef) 
+  - [React JS Progress](https://roadmap.sh/react?s=6758760decc889bb0dc6ccef)
+  - [Angular Progress](https://roadmap.sh/angular?s=6758760decc889bb0dc6ccef)
+  - [API Design Progress](https://roadmap.sh/api-design?s=6758760decc889bb0dc6ccef)
+
+  -  Database:
+    - [SQL Progress](https://roadmap.sh/sql?s=6758760decc889bb0dc6ccef)
+    - [MongoDB Progress](https://roadmap.sh/mongodb?s=6758760decc889bb0dc6ccef)
+    - [GraphQL Progress](https://roadmap.sh/graphql?s=6758760decc889bb0dc6ccef)
+
+  - Programming languages:
+    - [Javascript Progress](https://roadmap.sh/javascript?s=6758760decc889bb0dc6ccef)
+    - [Typescript Progress](https://roadmap.sh/typescript?s=6758760decc889bb0dc6ccef)
+    - [Python Progress](https://roadmap.sh/python?s=6758760decc889bb0dc6ccef)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gokul2908](https://github.com/gokul2908)
 
