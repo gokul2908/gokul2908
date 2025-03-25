@@ -4,13 +4,13 @@
 - 🔭 I’m currently working on [Personal Portfolio](https://gokul-kumar.netlify.app/gokul2908)
 
 - 🌱 I’m currently learning below with progress in roadmap links:
-  - [Computer Science Progress](https://roadmap.sh/computer-science?s=6758760decc889bb0dc6ccef)
   - [Git and GitHub Progress](https://roadmap.sh/git-github?s=6758760decc889bb0dc6ccef)
   - [Frontend Progress](https://roadmap.sh/frontend?s=6758760decc889bb0dc6ccef)
   - [Backend Development Progress](https://roadmap.sh/backend?s=6758760decc889bb0dc6ccef) 
   - [React JS Progress](https://roadmap.sh/react?s=6758760decc889bb0dc6ccef)
   - [Angular Progress](https://roadmap.sh/angular?s=6758760decc889bb0dc6ccef)
   - [API Design Progress](https://roadmap.sh/api-design?s=6758760decc889bb0dc6ccef)
+  - [Computer Science Progress](https://roadmap.sh/computer-science?s=6758760decc889bb0dc6ccef)
 
   -  Database:
       - [SQL Progress](https://roadmap.sh/sql?s=6758760decc889bb0dc6ccef)
