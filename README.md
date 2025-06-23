@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning below with progress in roadmap links:
   - [Git and GitHub Progress](https://roadmap.sh/git-github?s=6758760decc889bb0dc6ccef)
+  - [Go Developer](https://roadmap.sh/golang)
   - [Frontend Progress](https://roadmap.sh/frontend?s=6758760decc889bb0dc6ccef)
   - [Backend Development Progress](https://roadmap.sh/backend?s=6758760decc889bb0dc6ccef) 
   - [React JS Progress](https://roadmap.sh/react?s=6758760decc889bb0dc6ccef)
